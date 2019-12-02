@@ -27,3 +27,10 @@ Total Stock Management System is the practice of ordering, storing, tracking, an
 ![level-2.3](Diagrams/level_3_Dept_req.png)
 ## E-R Diagram:
 ![ER-Diagram](Diagrams/ER_09_05.png)
+## Screen Shot:
+### Login
+![login](ScreenShot/login.png)
+### Registration
+![registration](ScreenShot/reg.jpg)
+### Landing Page
+![registration](ScreenShot/home.jpg)
