@@ -10,3 +10,5 @@ Total Stock Management System is the practice of ordering, storing, tracking, an
 - Bootstrap
 - JavaScript
 - jQuery
+#### Data Flow Diagram:
+![usecase diagrams](Diagrams/DIAGRAM.png)
