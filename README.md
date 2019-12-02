@@ -20,11 +20,10 @@ Total Stock Management System is the practice of ordering, storing, tracking, an
 ### Level-2, Registration and Login
 ![level-2.1](Diagrams/level_2_reg_login.jpg)
 ### Level-2, Insert Category And Add Item
-![level-2.2](Diagrams/level_2_insert_category_and_add_item.jpg)
+![level-2.2](Diagrams/level_2_insert_catagory_and_add_item.jpg)
 ### Level-2, User Requisition
 ![level-2.3](Diagrams/Level2_userrequisition.jpg)
-### Level-2, Departmental Requisition
+### Level-3, Departmental Requisition
 ![level-2.3](Diagrams/level_3_Dept_req.png)
-
 ## E-R Diagram:
 ![ER-Diagram](Diagrams/ER_09_05.png)
