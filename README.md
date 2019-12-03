@@ -38,3 +38,5 @@ Total Stock Management System is the practice of ordering, storing, tracking, an
 ![itemreg](screenShot/itemregister.png)
 ### Landing Registration Form
 ![itemreg](screenShot/itemregister.png)
+### Landing Registration Form
+![item app by stock](screenShot/item_app_by_stock.png)
