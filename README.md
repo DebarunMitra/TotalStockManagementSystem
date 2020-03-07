@@ -27,6 +27,33 @@ Total Stock Management System is the practice of ordering, storing, tracking, an
 ![level-2.3](Diagrams/level_3_Dept_req.png)
 ## E-R Diagram:
 ![ER-Diagram](Diagrams/ER_09_05.png)
+## Database Schema:
+### All Database Tables:
+![All-Tables](Schemas/stock_management.png)
+### Category Master:
+![Category-Master](Schemas/category_master.png)
+### Subcategory Master:
+![Subcategory-Master](Schemas/subcategory_master.png)
+### Registration:
+![Registration](Schemas/registration.png)
+### Login:
+![Login](Schemas/login_details.png)
+### Item Code:
+![item-code](Schemas/item_code.png)
+### Item Entry Data:
+![item-entry-data](Schemas/item_entry_data.png)
+### Item Entry Data:
+![item-entry-data](Schemas/item_entry_data.png)
+### User Requisition:
+![user-requisition](Schemas/user_requisition.png)
+### Departmental stock:
+![Departmental-Stock](Schemas/dept_stock.png)
+### Department In-charge Requisition:
+![Department-Incharge-Requisition](Schemas/dept_inc_req.png)
+
+## Database Triggers:
+![Triggers](Schemas/triggers.png)
+
 ## Screen Shot:
 ### Login
 ![login](screenShot/login.png)
