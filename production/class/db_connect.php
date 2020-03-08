@@ -1,5 +1,5 @@
 <?php
 session_start();
-$link = mysqli_connect("localhost", "root", "bunty","stock_management");
+$link = mysqli_connect("localhost", "root", "root","stock_management");
 error_reporting(0);
 ?>
