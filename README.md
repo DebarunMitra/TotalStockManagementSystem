@@ -50,6 +50,8 @@ Total Stock Management System is the practice of ordering, storing, tracking, an
 ![Departmental-Stock](Schemas/dept_stock.png)
 ### Department In-charge Requisition:
 ![Department-Incharge-Requisition](Schemas/dept_inc_req.png)
+### Old Items Stock:
+![Old-Items-Stock](Schemas/old_stock.png)
 
 ## Database Triggers:
 ![Triggers](Schemas/triggers.png)
