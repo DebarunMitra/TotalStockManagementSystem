@@ -56,6 +56,13 @@ Total Stock Management System is the practice of ordering, storing, tracking, an
 ## Database Triggers:
 ![Triggers](Schemas/triggers.png)
 
+### Item Quantity Update:
+![Item-Quantity-Update](Schemas/trigger_it.png)
+
+### Dispatch Item:
+![Dispatch-Item](Schemas/trigger_di.png)
+
+
 ## Screen Shot:
 ### Login
 ![login](screenShot/login.png)
